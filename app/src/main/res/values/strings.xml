@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">MisGastos</string>
+    <string name="ingreso_gasto">Ingreso de Gasto</string>
+    <string name="monto">Monto</string>
+    <string name="item">Ítem</string>
+    <string name="fecha">Fecha</string>
+    <string name="descripcion">Descripción del gasto</string>
+    <string name="fecha_gasto">Fecha del gasto</string>
+    <string name="btn_ingreso_gasto">Ingresar Gasto</string>
+    <string name="consulta_gastos">Consulta de Gastos</string>
+    <string name="fecha_inicio_gastos">Fecha Inicio</string>
+    <string name="fecha_termino_gastos">Fecha Término</string>
+    <string name="btn_consultar">Consultar</string>
+    <string name="id">ID</string>
+    <string name="btn_editar">Editar</string>
+    <string name="btn_eliminar">Eliminar</string>
+    <string name="resultado_consulta">Resultado de Consulta</string>
+    <string name="edicion_gasto">Edición de Gasto</string>
+    <string-array name="items">
+        <item>Tiendas</item>
+        <item>Supermercado</item>
+        <item>Vestuario</item>
+        <item>Cuentas</item>
+        <item>Autopistas</item>
+        <item>Otros</item>
+    </string-array>
+    <string name="mensaje_ingreso_gasto">Se ha ingresado un gasto de Monto %1$s, Ítem %2$s, con Fecha %3$s. La Descripción del gasto es: %4$s.</string>
+    <string name="mensaje_editar_gasto">Se ha modificado correctamente el gasto de Monto %1$s, Ítem %2$s, con Fecha %3$s. La Descripción del gasto es: %4$s.</string>
+    <string name="mensaje_eliminar_gasto">Se ha eliminado correctamente el gasto de Monto %1$s, Ítem %2$s, con Fecha %3$s. La descripción del gasto es: %4$s.</string>
+    <string name="mensaje_error_bundle">Hubo un error al recuperar la información.</string>
+</resources>
